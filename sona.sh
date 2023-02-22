@@ -1,4 +1,6 @@
- #!/bin/bash
+#!/bin/bash
+#Auth:
+#Date: Feb 22 2023
 #How to install and configure SonarQube on CentOS 7
 #Follow below steps successively to install sonarqube on your centOS server. This process need to be run as a regular user (Sonarqube doesnt work w#hen you start it as root user).
 #su - vagrant
